@@ -2,8 +2,8 @@
 int main()
 {
 int x,y;
-scanf(%f, &y)
-y=sinx/2;
-printf(otvet:%f/n,y);
+scanf(%d, &y)
+y=sin(x);
+printf(otvet:%d/n,y);
 return(0);
 }
