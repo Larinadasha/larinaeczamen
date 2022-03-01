@@ -3,7 +3,7 @@ int main()
 {
 int x,y;
 scanf(%f, &y)
-y=sinx;
+y=sinx/2;
 printf(otvet:%f/n,y);
 return(0);
 }
